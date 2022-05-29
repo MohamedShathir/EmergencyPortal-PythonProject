@@ -2,8 +2,8 @@
 This is a project developed for recording the details of students who were admitted to hospital from school. This was made as school project. This project can be used as a basic template for creating similar projects. This project uses Python as front-end development tool and MySQL as back-end development tool. Hope you guys like my project, hit the Star if you like it &lt;3.
 
 
-~~~~~~~~~~~
-Python Packages
+
+Python Setting
 ~~~~~~~~~~~
 Be sure to install these python packages
 >>>	pip install matplotlib
@@ -39,5 +39,5 @@ Create database named Emergency_Portal and table named PatientData
 	e_PH varchar(10) not null,
 	cond varchar(10) not null,
 	Time_Stamp timestamp);
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Star if you like the project <3
