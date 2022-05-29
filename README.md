@@ -1,0 +1,2 @@
+# EmergencyPortal-PythonProject
+This is a project developed for recording the details of students who were admitted to hospital from school. This was made as school project. This project can be used as a basic template for creating similar projects. This project uses Python as front-end development tool and MySQL as back-end development tool. Hope you guys like my project, hit the Star if you like it &lt;3.
